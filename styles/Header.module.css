@@ -1,0 +1,15 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #228be6;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.ul {
+  list-style-type: none;
+}
+
+.li {
+  display: inline-block;
+  padding: 0 15px;
+}
